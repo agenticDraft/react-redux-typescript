@@ -659,3 +659,7 @@ Type-check the file (no output means no errors):
 ```bash
 npx tsc --noEmit first-app.ts
 ```
+
+# Section 3
+
+## children:ReactNode
